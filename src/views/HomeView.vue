@@ -1,4 +1,3 @@
 <template>
   <main>Home</main>
-  <footer>Rodapé</footer>
 </template>
